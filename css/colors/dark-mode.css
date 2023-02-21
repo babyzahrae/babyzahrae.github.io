@@ -1,12 +1,3 @@
-/*
- Template Name   : Treelink, mobile page for links.
-Author           : Jorge Perez
-Version          : 1.0.3
-Updated          : Dec 2022
-File Description : Updated Dark Mode Colour. (Same as the YouTube App).
-This affects the HIGHLIGHTS, BUTTONS, BACKGROUND COLOUR & SOCIAL MEDIA ICONS */
-
-    
     body {
         background-color: #1f1f1f;
     }
@@ -64,7 +55,7 @@ This affects the HIGHLIGHTS, BUTTONS, BACKGROUND COLOUR & SOCIAL MEDIA ICONS */
     letter-spacing: 0.6px;
     color: rgb(255, 255, 255);
     border: 1px solid rgba(255, 255, 255, 0.1);
-    background-color: #434343;
+    background-color: #b4b4b4;
     box-shadow: 3px 5px 8px rgba(0,0,0,40%);
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
