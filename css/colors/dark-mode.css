@@ -5,7 +5,7 @@
     body::before {
         content: "";
         background-image: url("/images/city-bg.png");
-        opacity: 0.4;
+        opacity: 0.25;
         position: absolute;
         top: 0;
         left: 0;
@@ -33,29 +33,6 @@
     .copyright_content {
         color: rgb(255, 255, 255);
     }
-
-/* Basic Icons Info -----------------------------------------------------------------------------------*/
-    
-.about-social li a {
-    align-items: center;
-    color: white;
-    background-color: #434343;
-    display: inline-block;
-    height: 42px;
-    width: 42px;
-    font-size: 20px;
-    border-radius: 50%;
-    line-height: 38px;
-    transition: all 0.5s;
-    text-align: center;
-    box-shadow: 2px 5px 8px rgba(0,0,0,30%);
-}
-
-.about-social li a:hover {
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    color: white;
-    background-color: rgba(255, 255, 255, 0.40);
-}
 
 /* Button Colours & Info --------------------------------------------------------------------------------*/
 
@@ -92,5 +69,4 @@
     color: #fff;
     background-color: rgba(255, 255, 255, 0.40);
     border: 1px solid rgba(255, 255, 255, 0.25);
-    box-shadow: none;
 }
